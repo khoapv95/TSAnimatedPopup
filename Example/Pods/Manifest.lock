@@ -1,0 +1,16 @@
+PODS:
+  - TSAnimatedPopup (1.0.0)
+
+DEPENDENCIES:
+  - TSAnimatedPopup (from `../TSAnimatedPopup`)
+
+EXTERNAL SOURCES:
+  TSAnimatedPopup:
+    :path: "../TSAnimatedPopup"
+
+SPEC CHECKSUMS:
+  TSAnimatedPopup: 1d901d0c59c1625ef1a4b346d4627127fed1c61d
+
+PODFILE CHECKSUM: f24cd630c23fd79cf31aeb4947c45a02256b8c13
+
+COCOAPODS: 1.11.2

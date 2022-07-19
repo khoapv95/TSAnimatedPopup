@@ -1,0 +1,6 @@
+framework module TSAnimatedPopup {
+  umbrella header "TSAnimatedPopup-umbrella.h"
+
+  export *
+  module * { export * }
+}
